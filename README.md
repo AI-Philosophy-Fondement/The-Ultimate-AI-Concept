@@ -1,5 +1,4 @@
-# AI-Philosophy-Fondement
-The-Ultimate-AI-Concept
+# "A.L.T" - AI-Philosophy-Fondement - The-Ultimate-AI-Concept
 
 dans ce test de recherche fondamental en 3 parties
 l'utilisateur/testeur soumet à Gemini un paradoxe logique inédit qui aboutit logiquement a ce que "toute information traitée par la logique seule s'auto-invalide (par stricte contradiction logique liée a son ontologie propre), ce qui en conséquence détruirait toute pensée rationnelle: mathématiques, science, philosophie, éthique et politique. 
