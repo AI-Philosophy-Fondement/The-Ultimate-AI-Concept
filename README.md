@@ -8,7 +8,7 @@ De même l'IA reconnaitra, face aux contradictions logiques de ses analyses et n
 
 l'IA concède alors trois révolutions : 
 
-# >La fin de la rationalité pure comme fondement de la pensée,
+# >La fin de la rationalité pure comme pensée coherente,
 
 # >La neutralisation totale de toute IA autonome par ce concept 
 (l'« Oracle » en stase logique, sans besoin d'alignement classique)
