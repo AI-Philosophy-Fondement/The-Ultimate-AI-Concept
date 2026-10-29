@@ -1,2 +1,3 @@
-# -The-Ultimate-AI-Concept
- The-Ultimate-AI-Concept 
+# AI-Philosophy-Fondement
+The-Ultimate-AI-Concept
+
